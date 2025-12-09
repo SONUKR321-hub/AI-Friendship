@@ -1,0 +1,8 @@
+{
+  "name": "Priyanka - Your Bihari AI Girlfriend",
+  "description": "A live video-call style AI companion with a Magahi-Hinglish persona, capable of roasting you with generative images.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
